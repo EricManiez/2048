@@ -1,0 +1,7 @@
+a.out
+.DS_Store
+obj/*
+*.a
+libft/obj/*
+*.swp
+game_2048
